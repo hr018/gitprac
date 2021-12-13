@@ -1,0 +1,2 @@
+This is a teating file 
+we are testing all git commands
